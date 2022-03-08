@@ -18,7 +18,7 @@ Route::view('/about', 'page.about');
 Route::view('/category', 'page.category');
 Route::view('/specials', 'page.specials');
 Route::view('/myaccount', 'page.myaccount');
-Route::view('/register', 'page.register');
+Route::view('/registers', 'page.register');
 Route::view('/details', 'page.details');
 Route::view('/contact', 'page.contact');
 

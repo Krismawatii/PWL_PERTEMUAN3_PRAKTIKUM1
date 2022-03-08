@@ -7,7 +7,7 @@
         <li><a href="/category">flowers</a></li>
         <li><a href="/specials">specials gifts</a></li>
         <li><a href="/myaccount">my accout</a></li>
-        <li><a href="/register">register</a></li>
+        <li><a href="/registers">register</a></li>
         <li><a href="/details">prices</a></li>
         <li><a href="/contact">contact</a></li>
       </ul>
